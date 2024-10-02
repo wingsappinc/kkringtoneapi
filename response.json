@@ -1,10 +1,10 @@
 [
   {
     "Admob_Native": "00",
-    "Admob_Open": "00",
-    "Admob_Inter": "00",
-    "Admob_Banner": "00",
-    "Admob_Splash_Open": "00",
-    "Admob_Splash_Open_Show": "2"
+    "Admob_Open": "ca-app-pub-6829619974723316/2437659403",
+    "Admob_Inter": "ca-app-pub-6829619974723316/6525848739",
+    "Admob_Banner": "ca-app-pub-6829619974723316/1949778082",
+    "Admob_Splash_Open": "ca-app-pub-6829619974723316/2437659403",
+    "Admob_Splash_Open_Show": "1"
   }
 ]
